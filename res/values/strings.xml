@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Numero</string>
+    <string name="action_settings">Settings</string>
+    <string name="bd_text">Numerology uses a person\'s birthday to calculate his or her life path. </string>
+	<string name="bd_button_text">Please Enter Birthday!!</string>
+	<string name="life_path_prefix">lp</string>
+	<string name="lp1">
+	     <![CDATA[
+	    <p>
+	    This  person with above birthday <b>needs</b> to:
+		<br/>
+		&#8226;Learn to be independent and to stand on your own two feet, to find and do your own thing.
+		<br/>
+		&#8226;Attempt an undertaking that\'s never been tried before
+		<br/>
+		&#8226;Evelop leadership qualities, self-sufficiency, and a take-charge attitude
+		]]>
+	</string>
+	
+	<string name="lp2">
+	    <![CDATA[
+	    <p>
+	    This person with above birthday <b>needs</b> to:
+		<br/>
+		&#8226;Learn to be a peacemaker, a diplomat.
+		<br/>
+		&#8226;Be sensitive to others\' feelings.
+		<br/>
+		&#8226;Learn how to please through charm, sweetness, friendliness, helpfulness, and considerration.
+		</p>
+		]]>
+	</string>
+	
+	<string name="lp3">
+	    <![CDATA[
+	    <p>
+	    This person with above birthday <b>needs</b> to:
+		<br/>
+		&#8226;Learn to be a gracious host or hostess.
+		<br/>
+		&#8226;Develop an appreciation for beauty and beautiful things.
+		<br/>
+		&#8226;Not scatter your energies or waste your talents.
+		</p>
+		]]>
+	</string>
+	
+	<string name="lp4">
+	    <![CDATA[
+	    <p>
+	    This person with above birthday <b>needs</b> to:
+		<br/>
+		&#8226;Learn order and self-discipline.
+		<br/>
+		&#8226;Be the doer, the one who can be counted on to get the job done.
+		<br/>
+		&#8226;Learn the joy that comes through accomplishment, and take pride in your work.
+		</p>
+		]]>
+	</string>
+
+	<string name="lp5">
+	    <![CDATA[
+	    <p>
+	    This person with above birthday <b>needs</b> to:
+		<br/>
+		&#8226;Learn the thrill of the new and the unusual.
+		<br/>
+		&#8226;Learn to be versatile and flexible.
+		<br/>
+		&#8226;Expect change and the unexpected.
+		</p>
+		]]>
+	</string>
+
+	<string name="lp6">
+	    <![CDATA[
+	    <p>
+	    This person with above birthday <b>needs</b> to:
+		<br/>
+		&#8226;Develop a sense of responsibility.
+		<br/>
+		&#8226;Be willing to lend your support and encouragement to those in need of it.
+		<br/>
+		&#8226;Learn the difference between helping out and meddling.
+		</p>
+		]]>
+	</string>
+
+	<string name="lp7">
+	    <![CDATA[
+	    <p>
+	    This person with above birthday <b>needs</b> to:
+		<br/>
+		&#8226;Obtain as good an education as possible.
+		<br/>
+		&#8226;Seek knowledge, think deeply, and develop intuitions.
+		<br/>
+		&#8226;Investigate the unknown in life.
+		<br/>
+		&#8226;Read between the lines and not judge by superficial appearances.
+		</p>
+		]]>
+	</string>
+
+	<string name="lp8">
+	    <![CDATA[
+	    <p>
+	    This person with above birthday <b>needs</b> to:
+		<br/>
+		&#8226;Develop drive and ambition.
+		<br/>
+		&#8226;Learn to think big and strive for success.
+		<br/>
+		&#8226;Learn how to make, save, and accumulate money.
+		<br/>
+		&#8226;Develop executive talents - the capacity to manage, organize, direct, and lead.
+		</p>
+		]]>
+	</string>
+		
+	<string name="lp9">
+	    <![CDATA[
+	    <p>
+	    This person with above birthday <b>needs</b> to:
+		<br/>
+		&#8226;Learn to love and serve your fellow man.
+		<br/>
+		&#8226;Learn to be a humanitarian.
+		<br/>
+		&#8226;Give others your love, sympathy, help, and understanding without thought of reward.
+		</p>
+		]]>
+	</string>
+</resources>
